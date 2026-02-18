@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barbosa Alef</h1>
-<h3 align="center">Data analytics enthusiast transitioning from IT infrastructure. Skilled in SQL (intermediate), Python (basic), Power BI and PySpark (beginner). Strong problem solver with or without AI support. Continuous learner and gamer in my free time.</h3>
+<h3 align="center">Data analytics enthusiast transitioning from IT infrastructure. Skilled in SQL (intermediate), Python (basic), Power BI (intermediate) and PySpark (beginner). Strong problem solver with or without AI support. Continuous learner and gamer in my free time.</h3>
 
-- 🔭 I’m currently working on [Data Analytics](https://github.com/AlefTechKai/sales-analysis)
+- 🔭 I’m currently working on [Data Analytics](https://github.com/AlefTechKai/Sales-Analytics) and [Data Analytics](https://github.com/AlefTechKai/HR-Analytics) 
 
 - 🌱 I’m currently learning **Harve Data Analytics, Bradesco Data Analytics, Udemy Data Analytics by PySpark**
 
