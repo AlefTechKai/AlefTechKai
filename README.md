@@ -1,63 +1,97 @@
-<h2 align="left">Hi 👋! My name is Alef Barbosa and I'm a Junior Backend & Frontend Developer, from Brazil</h2>
+<h1 align="center">👨‍💻 Alef Barbosa</h1>
 
-###
+<p align="center">
+Desenvolvedor Júnior Backend & Frontend • Focado em Dados e APIs
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlefTechkai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlefTechkai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-<div align="left">
+## 🚀 Sobre mim
 
-  
-## 🚀 About Me
-  
-* 💻 Junior Backend & Frontend Developer
-* 🐍 Python | C | C++ | Java | Bootstrap
-* 📊 Currently learning Data Analysis
-* 📈 Pandas | Streamlit | Power BI | Tableau | Looker
-* 🗄️ Database integration (SQL)
-* 📚 Knowledge in SQL: DML | DQL | DDL
+Sou desenvolvedor em formação com foco em **backend, dados e construção de soluções reais**.
 
-</div>
+Atualmente desenvolvendo projetos com:
 
-###
+* APIs e automação
+* Manipulação e análise de dados
+* Integração com banco de dados
+* Aplicações completas (backend + interface)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
 
-###
+## 🧠 Stack Principal
 
-<div align="left">
+**Linguagens:**
+
+* Python • C • C++ • Java
+
+**Backend & Dados:**
+
+* FastAPI
+* SQL (DML, DQL, DDL)
+* Pandas
+* Integração com banco de dados
+
+**Visualização & Apps:**
+
+* Streamlit
+* Power BI
+* Tableau
+* Looker
+
+**Frontend:**
+
+* HTML • CSS • Bootstrap
+
+
+## 📊 Atualmente estudando
+
+* Engenharia de Dados
+* Estruturação de APIs profissionais
+* Boas práticas de backend
+* Deploy de aplicações
+
+
+## 🛠️ Projetos (em destaque)
+
+🔹 Sistema de Monitoramento de Concursos
+→ Coleta de dados + detecção de mudanças + notificações
+
+🔹 API com autenticação
+→ CRUD + controle de acesso + banco de dados
+
+🔹 Análise de dados com Python
+→ Limpeza, transformação e geração de insights
+
+
+## 📫 Contato
+
+<p align="left">
   <a href="https://www.instagram.com/alef.fitss" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/alefbrodrigues" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
-###
+
+## 📈 Estatísticas
 
 <div align="center">
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlefTechkai/AlefTechkai/output/snake.svg" />
-
-###
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AlefTechkai&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlefTechkai&layout=compact&theme=dracula" height="150"/>
 </div>
+
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlefTechkai/AlefTechkai/output/snake.svg" />
+</div>
+
+
+## ⚡ Objetivo
+
+Buscando oportunidade como **Desenvolvedor Backend / Dados Júnior**, aplicando conhecimentos em projetos reais e evoluindo continuamente. 
+
+
