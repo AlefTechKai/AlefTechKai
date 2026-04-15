@@ -15,7 +15,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: AlefTechkai
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg?color_snake=#FF00FF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
